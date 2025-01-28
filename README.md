@@ -2,12 +2,12 @@
 
 Real Name and Details about scammer:
 
-Name: Ouksa Cha
-Country: Cambodia
-Address: phnompenh, phnompenh, 12700, KH
-BANK: ADVANCED BANK OF ASIA LIMITED
+Name: Ouksa Cha</br>
+Country: Cambodia</br>
+Address: phnompenh, phnompenh, 12700, KH</br>
+BANK: ADVANCED BANK OF ASIA LIMITED</br>
 
-HOME IP ADDRESS: 103.90.149.22
+HOME IP ADDRESS: 103.90.149.22</br>
 
 Sites:
 https://drm.codes
